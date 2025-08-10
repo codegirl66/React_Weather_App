@@ -31,7 +31,7 @@ A simple and responsive **Weather App** built with **React**, **HTML**, **CSS**,
    
 2. **Navigate to the project folder**
    ```bash
-   cd weather-app
+   cd weather
 
 3. **Install dependencies**
    ```bash
