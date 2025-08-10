@@ -27,8 +27,8 @@ A simple and responsive **Weather App** built with **React**, **HTML**, **CSS**,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/weather-app.git
-
+   git clone https://github.com/codegirl66/React_Weather_App.git
+   
 2. **Navigate to the project folder**
    ```bash
    cd weather-app
